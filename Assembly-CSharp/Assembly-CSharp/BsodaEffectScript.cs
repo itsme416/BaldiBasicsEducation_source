@@ -29,7 +29,7 @@ public class BsodaEffectScript : MonoBehaviour
 		}
 		else
 		{
-			inBsoda = false;
+			inBsoda = true;
 		}
 	}
 
